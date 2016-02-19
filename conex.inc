@@ -1,0 +1,1 @@
+<?php  $conexion = mysql_connect('localhost','webuser','webpassword'); mysql_select_db('webdata',$conexion); $conexion = mysql_connect('localhost','webuser','webpassword'); mysql_select_db('webdata',$conexion); $nomuser='webuser';$host='localhost';$nombase='webdata';$password='webpassword';?>

@@ -1,0 +1,1 @@
+<br><font color=red><size=2><b>host : localhost<br>user : webuser<br>pass : webpassword<br>nom base : webdata</b></font>

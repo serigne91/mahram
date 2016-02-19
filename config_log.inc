@@ -1,0 +1,1 @@
+<?php $loginadm="serigne"; $passadm="2JwLen91"; $loginmemb="mara"; $passmemb="1960"; ?>

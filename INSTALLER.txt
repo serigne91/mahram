@@ -1,0 +1,62 @@
+***************************************************
+___________________________________________________
+
+TROMBYN V2.1.1 - 10 OCTOBRE 2004
+
+par Zitoun
+___________________________________________________
+***************************************************
+NOUVELLE VERSION : Il est désormais possible d'inscrire un ascendant... cette fonction est
+fraîchement développé, elle peut donc contenir encore quelques bugs... une mise-à-jour sera
+faite dés les tests complets.
+
+N'hésitez pas à m'envoyer vos remarques sur trombyn@fr.fm
+
+
+***************************************************
+___________________________________________________
+
+
+En fait j'ai développé ça pour mon site perso de famille....
+
+Le but est d'avoir un arbre généalogique de la famille dynamique
+avec des photos et aussi un espèce de forum de disscution ultra simple ! (genre livre d'or)
+
+Les membres de la famille ont un log et un mot de passe pour tous, mais
+quand ils s'inscrivent dans la généalogie ils ont leur mot de passe
+perso pour modifier quand ils veulent leurs données (et même leur photo depuis la version 2.1.1).
+
+
+J'ai ajouté aussi une petite rubrique photo où chacun peut uploader ce qu'il veut
+genre photo de mariage ou autre... Depuis la version 2.1, des miniature sont automatiquement
+créées pour un affichage plus rapide de la galerie.
+
+et une rubrique avec la liste des mails et les anniversaires du mois.
+
+Voilà à vous de tester si vous avez envie !
+_________________________________________________________________________
+
+SYSTEM REQUIREMENT 
+__________________
+
+Des pages php et une base de données MySQL (ex : chez free)
+
+
+COMMENT FAIRE ?
+_______________
+
+C'est facile : copier les fichiers chez votre hébergeur
+
+puis ouvrir la page : http://votresite/trombyn/admin/install.php
+
+remplissez tout et c'est parti ! ça va créer 4 tables (coordonnées, identifiant, potins et foto)
+dans votre base de données.
+
+ATTENTION
+
+CONCLUSION
+__________
+
+Evidément c'est loin d'etre parfait... et c'est libre !
+
+*ZITOUN*
